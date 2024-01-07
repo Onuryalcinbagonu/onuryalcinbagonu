@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, My name is Onur 👋
+
+I work on web design and programming. I am trying to improve myself in this field. I really love coding. I usually like to write interesting projects.
 
 <!--
 **Onuryalcinbagonu/onuryalcinbagonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
