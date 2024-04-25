@@ -1,6 +1,8 @@
 ### Hello, My name is Onur 👋
 
-I work on web design and programming. I am trying to improve myself in this field. I really love coding. I usually like to write interesting projects.
+I work on web design and programming. I am trying to improve myself in this field. I really love coding. I usually like to write interesting projects.I graduated from Bartın University Management Information Systems department. I am currently interested in PHP Laravel, Ruby on Rails and React Js. Previously, I was interested in languages such as C#, Asp.Net Mvc, Python. I usually worked on school projects. Some of my repositories are currently private and I can open them upon request. Some of these repos are Asp.Net Mvc Admin Panel and Corporate Website and Android On-Duty Pharmacy system.
+
+My hobbies are playing guitar and reading books.
 
 <!--
 **Onuryalcinbagonu/onuryalcinbagonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
